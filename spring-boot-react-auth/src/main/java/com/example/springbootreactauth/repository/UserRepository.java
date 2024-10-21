@@ -1,5 +1,6 @@
-package com.example.springbootreactauth;
+package com.example.springbootreactauth.repository;
 
+import com.example.springbootreactauth.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
